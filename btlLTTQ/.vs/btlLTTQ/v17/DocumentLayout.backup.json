@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\laptrinhtrucquan\\btlLTTQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{573D1242-3E28-4835-9EB0-872E617C7B5B}|btlLTTQ\\btlLTTQ.csproj|D:\\laptrinhtrucquan\\btlLTTQ\\btllttq\\frmgiaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573D1242-3E28-4835-9EB0-872E617C7B5B}|btlLTTQ\\btlLTTQ.csproj|solutionrelative:btllttq\\frmgiaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573D1242-3E28-4835-9EB0-872E617C7B5B}|btlLTTQ\\btlLTTQ.csproj|D:\\laptrinhtrucquan\\btlLTTQ\\btllttq\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{573D1242-3E28-4835-9EB0-872E617C7B5B}|btlLTTQ\\btlLTTQ.csproj|solutionrelative:btllttq\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573D1242-3E28-4835-9EB0-872E617C7B5B}|btlLTTQ\\btlLTTQ.csproj|d:\\laptrinhtrucquan\\btllttq\\btllttq\\frmgiaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{573D1242-3E28-4835-9EB0-872E617C7B5B}|btlLTTQ\\btlLTTQ.csproj|solutionrelative:btllttq\\frmgiaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573D1242-3E28-4835-9EB0-872E617C7B5B}|btlLTTQ\\btlLTTQ.csproj|D:\\laptrinhtrucquan\\btlLTTQ\\btllttq\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573D1242-3E28-4835-9EB0-872E617C7B5B}|btlLTTQ\\btlLTTQ.csproj|solutionrelative:btllttq\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573D1242-3E28-4835-9EB0-872E617C7B5B}|btlLTTQ\\btlLTTQ.csproj|D:\\laptrinhtrucquan\\btlLTTQ\\btllttq\\classes\\databaseprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573D1242-3E28-4835-9EB0-872E617C7B5B}|btlLTTQ\\btlLTTQ.csproj|solutionrelative:btllttq\\classes\\databaseprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573D1242-3E28-4835-9EB0-872E617C7B5B}|btlLTTQ\\btlLTTQ.csproj|D:\\laptrinhtrucquan\\btlLTTQ\\btllttq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573D1242-3E28-4835-9EB0-872E617C7B5B}|btlLTTQ\\btlLTTQ.csproj|solutionrelative:btllttq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\laptrinhtrucquan\\btlLTTQ\\btlLTTQ\\Program.cs",
+              "RelativeDocumentMoniker": "btlLTTQ\\Program.cs",
+              "ToolTip": "D:\\laptrinhtrucquan\\btlLTTQ\\btlLTTQ\\Program.cs",
+              "RelativeToolTip": "btlLTTQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:56:26.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "D:\\laptrinhtrucquan\\btlLTTQ\\btlLTTQ\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "btlLTTQ\\frmDangNhap.cs",
+              "ToolTip": "D:\\laptrinhtrucquan\\btlLTTQ\\btlLTTQ\\frmDangNhap.cs*",
+              "RelativeToolTip": "btlLTTQ\\frmDangNhap.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAMwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:47:38.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataBaseProcess.cs",
+              "DocumentMoniker": "D:\\laptrinhtrucquan\\btlLTTQ\\btlLTTQ\\Classes\\DataBaseProcess.cs",
+              "RelativeDocumentMoniker": "btlLTTQ\\Classes\\DataBaseProcess.cs",
+              "ToolTip": "D:\\laptrinhtrucquan\\btlLTTQ\\btlLTTQ\\Classes\\DataBaseProcess.cs",
+              "RelativeToolTip": "btlLTTQ\\Classes\\DataBaseProcess.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:44:27.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGiaoDien.cs",
+              "DocumentMoniker": "D:\\laptrinhtrucquan\\btlLTTQ\\btlLTTQ\\frmGiaoDien.cs",
+              "RelativeDocumentMoniker": "btlLTTQ\\frmGiaoDien.cs",
+              "ToolTip": "D:\\laptrinhtrucquan\\btlLTTQ\\btlLTTQ\\frmGiaoDien.cs*",
+              "RelativeToolTip": "btlLTTQ\\frmGiaoDien.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:41:03.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmGiaoDien.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinhtrucquan\\btlLTTQ\\btlLTTQ\\frmGiaoDien.cs",
+              "RelativeDocumentMoniker": "btlLTTQ\\frmGiaoDien.cs",
+              "ToolTip": "D:\\laptrinhtrucquan\\btlLTTQ\\btlLTTQ\\frmGiaoDien.cs [Design]*",
+              "RelativeToolTip": "btlLTTQ\\frmGiaoDien.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:39:46.644Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinhtrucquan\\btlLTTQ\\btlLTTQ\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "btlLTTQ\\frmDangNhap.cs",
+              "ToolTip": "D:\\laptrinhtrucquan\\btlLTTQ\\btlLTTQ\\frmDangNhap.cs [Design]*",
+              "RelativeToolTip": "btlLTTQ\\frmDangNhap.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:27:13.594Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

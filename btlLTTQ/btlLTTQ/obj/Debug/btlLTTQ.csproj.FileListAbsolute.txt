@@ -1,0 +1,11 @@
+D:\laptrinhtrucquan\btlLTTQ\btlLTTQ\bin\Debug\btlLTTQ.exe.config
+D:\laptrinhtrucquan\btlLTTQ\btlLTTQ\bin\Debug\btlLTTQ.exe
+D:\laptrinhtrucquan\btlLTTQ\btlLTTQ\bin\Debug\btlLTTQ.pdb
+D:\laptrinhtrucquan\btlLTTQ\btlLTTQ\obj\Debug\btlLTTQ.csproj.AssemblyReference.cache
+D:\laptrinhtrucquan\btlLTTQ\btlLTTQ\obj\Debug\btlLTTQ.Properties.Resources.resources
+D:\laptrinhtrucquan\btlLTTQ\btlLTTQ\obj\Debug\btlLTTQ.csproj.GenerateResource.cache
+D:\laptrinhtrucquan\btlLTTQ\btlLTTQ\obj\Debug\btlLTTQ.csproj.CoreCompileInputs.cache
+D:\laptrinhtrucquan\btlLTTQ\btlLTTQ\obj\Debug\btlLTTQ.exe
+D:\laptrinhtrucquan\btlLTTQ\btlLTTQ\obj\Debug\btlLTTQ.pdb
+D:\laptrinhtrucquan\btlLTTQ\btlLTTQ\obj\Debug\btlLTTQ.frmDangNhap.resources
+D:\laptrinhtrucquan\btlLTTQ\btlLTTQ\obj\Debug\btlLTTQ.frmGiaoDien.resources
